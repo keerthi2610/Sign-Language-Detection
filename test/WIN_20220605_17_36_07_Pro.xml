@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>WIN_20220605_17_36_07_Pro.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello\WIN_20220605_17_36_07_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>24</ymin>
+			<xmax>466</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>
